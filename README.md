@@ -6,7 +6,7 @@ Not a program — a folder skeleton plus a few writing rules.
 Drop it into an agent's workspace and the agent has somewhere to write down what it learns,
 so that next session it reads it back instead of starting from zero.
 
-Sister project: [handoff-kit](https://github.com/hanakujira/handoff-kit) compresses **one day** of messy log into a one-page handoff.
+Sister project: **handoff-kit** compresses **one day** of messy log into a one-page handoff note.
 memory-kit is the **long term**: where it lives, where things go, what to keep and what to move out of the way.
 
 ## Three rules
